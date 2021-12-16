@@ -1,0 +1,12 @@
+# 项目相关配置
+calibrate:
+  # 测试网址http://localhost:8080/calibrate/luse
+  # 土地类型规划python启动网址
+  pythoncreateurl: http://172.16.254.80:9999/LUSEINIT
+  # 土地类型规划python返回网址
+  pythonresulturl: http://172.16.254.80:9999/LUSERESULT
+  # 场景目录
+  swatlocalfolder: D:/work/LUSE/TxtInOut2
+  # 启动计算（发送土地利用类型样例）
+  # http://localhost:8080/calibrate/luse_const   发送 post json 字符串，如下
+  # "[1,2,3,4,5,1,2,3,4,5,1,2,3,4,5,1,2,3]"  - 18个子流域
