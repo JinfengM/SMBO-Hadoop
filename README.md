@@ -1,9 +1,11 @@
 # SMBO-Hadoop
 	SMBO-Hadoop is an improved Hadoop-based cloud for complex model simulation optimization. It can parallelize conventional sequential-model-based optimization methods and guarantees the reliability of simulation optimization tasks by handling node failures as well.
 
-Purpose
+Purposes
 
 SMBO-Hadoop is an improved Hadoop-based cloud for complex model simulation optimization. It can parallelize conventional sequential-model-based optimization methods and guarantees the reliability of simulation optimization tasks by handling node failures as well.
+
+The framework clarifies how cloud techniques can be practically applied to efficiently alleviate the substantial computational burden of complex model simulation optimization, with lessons for future studies to reduce model simulation time and handle partial failure.
 
 Installation
 1. Hadoop High Availability (HA) cluster is required,version 2.7.5 is preferable. Details can be referred to https://hadoop.apache.org/docs/r2.7.5/hadoop-project-dist/hadoop-hdfs/HDFSHighAvailabilityWithNFS.html#Deployment
