@@ -1,6 +1,10 @@
 # SMBO-Hadoop
 	SMBO-Hadoop is an improved Hadoop-based cloud for complex model simulation optimization. It can parallelize conventional sequential-model-based optimization methods and guarantees the reliability of simulation optimization tasks by handling node failures as well.
 
+Purpose
+
+SMBO-Hadoop is an improved Hadoop-based cloud for complex model simulation optimization. It can parallelize conventional sequential-model-based optimization methods and guarantees the reliability of simulation optimization tasks by handling node failures as well.
+
 Installation
 1. Hadoop High Availability (HA) cluster is required,version 2.7.5 is preferable. Details can be referred to https://hadoop.apache.org/docs/r2.7.5/hadoop-project-dist/hadoop-hdfs/HDFSHighAvailabilityWithNFS.html#Deployment
 2. Anaconda is recommended to host Tornado web server. Tornado is used to accommodate sequential-model-based optimization, for example Bayesian optimization algorithm. Python libraries including numpy, skopt, pandas, keras are also required. Details can be referred to souce code of "BayesianOptimizationServer.py"
