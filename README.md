@@ -18,3 +18,11 @@ The improved Hadoop-based cloud framework is dedicated to complex model simulati
 
 ![20210413第二篇文章框架制图CLIP](https://user-images.githubusercontent.com/96234482/146670614-ce996cb5-1846-4542-a7bf-206d70fc1ba7.png)
 Schematic diagram of the improved Hadoop-based cloud framework dedicated to complex model simulation optimization
+
+Cite
+
+Title = "Improved Hadoop-based cloud for complex model simulation optimization: Calibration of SWAT as an example"
+
+Doi = "https://doi.org/10.1016/j.envsoft.2022.105330"
+
+Url = "https://www.sciencedirect.com/science/article/pii/S1364815222000366"
