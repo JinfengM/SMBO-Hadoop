@@ -1,5 +1,5 @@
 # SMBO-Hadoop
-	SMBO-Hadoop is an improved Hadoop-based cloud for complex model simulation optimization. It can parallelize conventional sequential-model-based optimization methods and guarantees the reliability of simulation optimization tasks by handling node failures as well.
+	SMBO-Hadoop is an improved Hadoop-based cloud for complex model simulation optimization. It can parallelize conventional sequential-model-based optimization (SMBO) methods and guarantees the reliability of simulation optimization tasks by handling node failures as well.
 
 Purposes
 
