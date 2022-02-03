@@ -22,5 +22,7 @@ Schematic diagram of the improved Hadoop-based cloud framework dedicated to comp
 Cite
 
 Title = "Improved Hadoop-based cloud for complex model simulation optimization: Calibration of SWAT as an example"
+
 Doi = "https://doi.org/10.1016/j.envsoft.2022.105330"
+
 Url = "https://www.sciencedirect.com/science/article/pii/S1364815222000366"
