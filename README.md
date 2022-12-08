@@ -17,7 +17,7 @@ Functionality and workflow
 The improved Hadoop-based cloud framework is dedicated to complex model simulation optimization. It consists of two improvements: Improvement 1: The traditional sequential-model-based algorithm, such as Bayesian optimizaiton (BO), can be parallelized in the framework by grouping multiple simulations into multiple sequential MapReduce jobs. Multiple tasks inside a job are invoked and executed in parallel. Improvement 2: The efficiency of a single simulation is further improved by invoking a single model computation in a Mapper container only, without using the Reducer procedure.Below is the schematic digram of the framework
 
 ![20210413第二篇文章框架制图CLIP](https://user-images.githubusercontent.com/96234482/146670614-ce996cb5-1846-4542-a7bf-206d70fc1ba7.png)
-Schematic diagram of the improved Hadoop-based cloud framework dedicated to complex model simulation optimization
+Schematic diagram of the improved Hadoop-based cloud framework dedicated to complex model simulation optimization(from https://doi.org/10.1016/j.envsoft.2022.105330)
 
 Cite
 
